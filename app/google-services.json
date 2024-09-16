@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995433641628",
+    "project_id": "petdiary-84939",
+    "storage_bucket": "petdiary-84939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995433641628:android:b760525954f304b63a1f59",
+        "android_client_info": {
+          "package_name": "com.example.petdiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb685YPIYnXhV_vqEMlQGo-wMrgo3AB3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
